@@ -9,9 +9,7 @@
 </p>
 
 <!-- ================= HACKER VISUAL ================= -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
-</p>
+<p align="center"> <img width="400px" src="https://i.postimg.cc/258grZf5/world1.webp"></p>
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
