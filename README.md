@@ -41,9 +41,8 @@
 <img src="rolandino.jpg" alt="IP Result" width="100%" />
 <p align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=★;★★;★★★;★★★★;★★★★★" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200px" alt="Animated stars" />
 </p>
-
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=170&section=footer" />
