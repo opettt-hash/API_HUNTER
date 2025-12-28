@@ -41,7 +41,7 @@
 <img src="rolandino.jpg" alt="IP Result" width="100%" />
 <p align="center">
 <p align="center">
-  <img src="https://pixabay.com/id/gifs/bintang-lima-bintang-membentuk-24293/" alt="5 Star GIF" />
+  <img src="https://pixabay.com/id/gifs/bintang-lima-bintang-membentuk-24294/" alt="5 Star GIF" />
 </p>
 
 <!-- ================= FOOTER ================= -->
