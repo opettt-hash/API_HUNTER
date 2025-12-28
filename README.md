@@ -1,91 +1,66 @@
-<!-- HEADER WAVING -->
+<!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=220&section=header&text=Rolandino&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=220&section=header&text=SILENT%20BUILDER&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn" />
 </p>
 
-<!-- TYPING EFFECT -->
+<!-- TYPING TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=8F8F8F&center=true&vCenter=true&width=700&lines=Security+Researcher;Automation+Engineer;Python+Developer;Low+Noise+%7C+High+Precision;Working+in+Silence" />
-</p>
-
----
-
-<!-- GALAU QUOTE -->
-<p align="center">
-  <i>
-    “Tidak semua yang diam itu lemah,<br>
-    sebagian sedang membangun sesuatu yang tak terlihat.”
-  </i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Tidak+semua+yang+diam+itu+lemah;Sebagian+sedang+membangun+sesuatu;Yang+tak+terlihat..." />
 </p>
 
 ---
 
-<!-- MATRIX / CODE RAIN -->
+<!-- SAD QUOTE -->
+<h3 align="center" style="color:#888888;">
+🕯️ Tidak semua yang diam itu lemah  
+<br>
+Sebagian sedang membangun sesuatu yang tak terlihat
+</h3>
+
+---
+
+<!-- HACKER GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+</p>
+
+---
+
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+---
+
+## 🌑 CONNECT WITH ME
+<p align="center">
+  <a href="https://t.me/Crackers_Communitiy">
+    <img src="https://img.shields.io/badge/Telegram-Crackers%20Community-000000?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <br><br>
+  <a href="https://www.facebook.com/profile.php?id=100094471519310">
+    <img src="https://img.shields.io/badge/Facebook-Profile-111111?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+</p>
+
+---
+
+<!-- HACKER SKILLS ANIMATION -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,html,js&theme=dark" />
+</p>
+
+---
+
+<!-- SNAKE CONTRIBUTION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-<!-- ABOUT (SHORT & COLD) -->
+<!-- FOOTER -->
 <p align="center">
-  Fokus pada riset keamanan aplikasi web dan pengembangan sistem otomasi<br>
-  dengan pendekatan teknikal, terukur, dan minim distraksi.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=160&section=footer"/>
 </p>
-
-<p align="center">
-  Analisis perilaku aplikasi • Otomasi riset • Tooling jangka panjang
-</p>
-
-<p align="center">
-  <sub>
-    research-driven • precision over hype • long-term systems
-  </sub>
-</p>
-
----
-
-$ whoami
-> Rolandino
-
-$ focus
-> security research
-> automation
-> silent development
-
-$ status
-> still building...
-
-$ mindset
-> low profile
-> high precision
-> no shortcuts
-
-$ philosophy
-> code speaks louder than words
-> consistency beats intensity
-> silence is part of the process
-
-$ current_state
-> learning
-> breaking
-> rebuilding
-
-$ visibility
-> minimal
-> intentional
-
-$ expectations
-> none
-
-$ roadmap
-> observe
-> analyze
-> automate
-> repeat
-
-$ last_message
-> working quietly while everything else stays loud
-
-$ exit
-> _
