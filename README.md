@@ -35,6 +35,7 @@
 </p>
 
 <!-- ================= FOOTER ================= -->
+<img src="rolandino.jpg" alt="IP Result" width="100%">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=170&section=footer" />
 </p>
