@@ -5,7 +5,7 @@
 
 <!-- TYPING TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Tidak+semua+yang+diam+itu+lemah;Sebagian+sedang+membangun+sesuatu;Yang+tak+terlihat..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Tidak+Semua+Yang+Diam+Itu+Lemah;SeBagian+Sedang+Membangun+Sesuatu;Yang+Tak+Terlihat!" />
 </p>
 
 
