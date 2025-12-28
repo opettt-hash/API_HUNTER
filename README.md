@@ -4,14 +4,38 @@
 </p>
 
 <!-- ================= STATIC SAD TEXT ================= -->
-<h3 align="center" style="color:#8a8a8a;">
-  “tidak semua yang diam itu lemah,<br>
-  sebagian sedang membangun sesuatu yang tak terlihat”
+<h3 align="center">
+  <span class="typing">
+    Yang sunyi bukan berarti kosong.<br>
+    Ada sesuatu yang sedang tumbuh… dan itu berbahaya.
+  </span>
 </h3>
 
-<br>
+<style>
+.typing {
+  color: #8a8a8a;
+  font-family: monospace;
+  display: inline-block;
+  border-right: 2px solid #8a8a8a;
+  white-space: nowrap;
+  overflow: hidden;
+  animation:
+    typing 4s steps(60, end),
+    blink .7s infinite;
+}
 
-<!-- ================= HACKER VISUAL ================= -->
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
+}
+</style>
+
+<br>
+<<!-- ================= HACKER VISUAL ================= -->
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
 </p>
