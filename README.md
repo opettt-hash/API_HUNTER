@@ -34,11 +34,7 @@
 <br>
 
 <!-- ================= SKILLS ================= -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,html,js&theme=dark" />
-</p>
 
-<br>
 
 <!-- ================= SNAKE ================= -->
 <p align="center">
