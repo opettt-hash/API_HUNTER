@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=220&section=header&text=SILENT%20BUILDER&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=220&section=header&text=CRACKERS%20COMMUNITIY&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn" />
 </p>
 
 <!-- TYPING TEXT -->
