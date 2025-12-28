@@ -41,7 +41,7 @@
 <img src="rolandino.jpg" alt="IP Result" width="100%" />
 <p align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=⭐️;⭐️⭐️;⭐️⭐️⭐️;⭐️⭐️⭐️⭐️;⭐️⭐️⭐️⭐️⭐️" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=★;★★;★★★;★★★★;★★★★★" />
 </p>
 
 <!-- ================= FOOTER ================= -->
