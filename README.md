@@ -10,15 +10,6 @@
 
 ---
 
-<!-- SAD QUOTE -->
-<h3 align="center" style="color:#888888;">
-🕯️ Tidak semua yang diam itu lemah  
-<br>
-Sebagian sedang membangun sesuatu yang tak terlihat
-</h3>
-
----
-
 <!-- HACKER GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
