@@ -1,12 +1,11 @@
-## API HUNTER 
-
+## API HUNTER
 ---
 
-## Overview
+## Deskripsi
 
-**Ultimate API Hunter** adalah framework **advanced web & API reconnaissance** yang dirancang untuk pentester, bug bounty hunter, dan security researcher.
+**Ultimate API Hunter** adalah framework **WEB & API reconnaissance** yang dirancang untuk pentester, bug bounty hunter, dan security researcher
 
-Tool ini menggabungkan:
+Program ini menggabungkan
 - Smart reconnaissance
 - JavaScript mining
 - API endpoint discovery
@@ -22,7 +21,7 @@ Semua dibuat untuk **automation, speed, dan akurasi**.
 
 ### Recon & Enumeration
 - Homepage reconnaissance
-- Auto-scan:
+- Auto-scan
   - `robots.txt`
   - `sitemap.xml`
   - `security.txt`
@@ -33,7 +32,7 @@ Semua dibuat untuk **automation, speed, dan akurasi**.
 
 ### JavaScript Mining
 - Crawl & analisis file `.js`
-- Extract:
+- Extract
   - API endpoints
   - Base URL
   - Route internal
@@ -51,7 +50,7 @@ Semua dibuat untuk **automation, speed, dan akurasi**.
 ---
 
 ### Ultra Mega Path Bruteforce
-- 200+ high-value paths:
+- 200+ high-value paths
   - `/api/*`
   - `/admin`
   - `/internal`
@@ -74,7 +73,7 @@ Semua dibuat untuk **automation, speed, dan akurasi**.
 ---
 
 ### Session & Auth Analysis
-- Deteksi cookie mencurigakan:
+- Deteksi cookie mencurigakan
   - session
   - auth
   - admin
@@ -84,14 +83,14 @@ Semua dibuat untuk **automation, speed, dan akurasi**.
 ---
 
 ### Endpoint Scoring System
-Endpoint diprioritaskan berdasarkan:
+Endpoint diprioritaskan berdasarkan
 - Keyword sensitif
 - HTTP status
 - Response size
 - Path type
 - Randomization anti-false-positive
 
-Score: **0 – 100**
+Score : **0 – 100** ( Tingkat Vulnerability ) 
 
 ---
 
