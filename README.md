@@ -1,7 +1,4 @@
-# Ultimate API Hunter & WAF Bypass Framework 
-
-> **Advanced Web Recon • API Discovery • JavaScript Mining • SQL Injection Detection**  
-> **Coded By Rolandino7**
+## API HUNTER 
 
 ---
 
