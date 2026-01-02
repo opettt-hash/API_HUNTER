@@ -108,10 +108,10 @@ Score : **0 – 100** ( Tingkat Vulnerability )
 ## Instalasi
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/opettt-hash/API_HUNTER.git
+cd API_HUNTER
 pip install rich
-python 
+python API_HUNTER.py  
 ```
 
 ## Output Scanning
