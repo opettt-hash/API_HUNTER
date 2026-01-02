@@ -3,7 +3,7 @@
 
 ## Deskripsi
 
-**Ultimate API Hunter** adalah framework **WEB & API reconnaissance** yang dirancang untuk pentester, bug bounty hunter, dan security researcher
+**API Hunter** adalah framework **WEB & API reconnaissance** yang dirancang untuk pentester, bug bounty hunter, dan security researcher
 
 Program ini menggabungkan
 - Smart reconnaissance
