@@ -109,7 +109,18 @@ Score: **0 – 100**
 ## Instalasi
 
 ```bash
-git clone https://github.com/username/ultimate-api-hunter.git
-cd ultimate-api-hunter
-pip install -r requirements.txt
+git clone 
+cd 
+pip install rich
+python 
 ```
+
+## Output Scanning
+- Live API endpoints
+- Hidden admin paths
+- API keys & tokens
+- SQL Injection vulnerable endpoints
+- Endpoint priority score
+
+## Peringatan
+Program ini dibuat hanya untuk tujuan edukasi & pengujian keamanan yang legal !
